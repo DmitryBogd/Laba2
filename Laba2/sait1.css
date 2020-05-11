@@ -1,0 +1,266 @@
+ html { 
+ overflow-x: hidden; 
+ }
+ .main {
+
+}
+.t1{
+	font-family:Segoe UI;
+	font-weight:Semibold;
+}
+.t2{
+	font-family:Segoe UI;
+	font-weight:Regular;
+}
+
+ #header {
+	 	margin-top:0.001vw;
+		position: fixed; 
+		left: 0; 
+		top: 0; 
+		width:100%;
+		height:4vw;
+		background-color:white;
+
+}
+#BigM {
+	margin-bottom:0.001vw;
+	position: fixed;
+	margin-left:3.3vw;
+
+		width: 2vw;
+		height: 2vw;
+}
+#Butt {
+
+  position: fixed;
+  border:none;
+  margin-top:0.2vw;
+  width: 7vw;
+  height: 1.8vw;
+  background-color: #f69321;
+  right:2vw;
+  color: white;
+  font-size: 0.7vw;
+}
+#promo-mountain {
+		margin-left:0vw; 
+		width: 100vw;
+		height:32vw;
+		padding-left:28vw;
+		padding-top:17vw;
+        background:url(pictures_l2/mountain.png)no-repeat ;
+		background-size: 100vw auto;
+
+}
+#text_s1{
+	padding-top:0.01%;
+	width:46vw;
+	height:12vw;
+	background: rgba(0,0,0,0.1); 
+	text-align: center;
+
+}
+#text_m{
+	margin-left:10%;
+	margin-right:10%;
+	margin-top:6%;
+	color:white;
+	opacity: 2;
+	font-size: 2.7vw;
+}
+#part_2{
+	padding-top:0.01%;
+	margin-left:0vw;
+	width:100vw;
+	height:50vw;
+	background:url(pictures_l2/bus.png)no-repeat right rgba(255,255,255,0.2) ;
+	background-size: 50% 50vw;
+}
+#Bt1{
+	margin-left:10%;
+	margin-top:20%;
+	font-size: 2.5vw;
+
+}
+#St1{
+	width:30vw;
+	margin-left:10%;
+	font-size: 1.1vw;
+	color:6b6b6b;
+}
+#part_3 {
+		margin-left:0vw; 
+		width: 100%;
+		height:50vw;
+		background:url(pictures_l2/office.png)no-repeat ;
+		background-size: 100% 50vw;
+}
+#logo{
+	margin-top:3vw;
+	margin-left:3vw;
+	width:20vw;
+	height:auto;
+}
+#service{
+	font-family:Segoe UI;
+	font-size:1.7vw;
+	color:white;
+	margin-left:3vw;
+	margin-top:1vw;
+	font-weight:Semibold;
+}
+#perv{
+	font-family:Regular;
+	font-size:1.2vw;
+	color:white;
+	margin-left:3vw;
+	margin-top:3vw;
+}
+#inp{
+	padding-left:1vw;
+	background-color: rgba(0,0,0,0);
+	margin-left:3vw;
+	border-width:0.2vw;
+	border: 2px solid white;
+	width:23vw;	
+	height:2.5vw;
+	font-family:Segoe UI;
+	font-weight:Semibold;
+	font-size:1vw;
+	color:white;
+}
+#Butt2{
+  border:none;
+  margin-top:0.2vw;
+  margin-left:1.5vw;
+  width: 10vw;
+  height: 2.5vw;
+  background-color: #f69321;
+  right:2vw;
+  color: white;
+  font-size: 0.7vw;
+  font-family:Segoe UI;
+  font-weight:Semibold;
+  font-size:1vw;
+}
+#part_4 {
+	margin-top:0vw;
+	margin-left:0vw; 
+		width: 100%;
+		height:45vw;
+		background-color:white ;
+		background-size: 100% auto;
+}
+table{
+		margin-left:8%;
+		margin-top:5vw;
+}
+th{
+	width: 5vw;
+	height:5vw;
+}
+
+h1{
+		margin-left:35%;
+		margin-top:2vw;
+		font-size:2.5vw;
+}
+
+h2{
+		color:6b6b6b;
+		margin-left:32%;
+		font-size:1.7vw;
+}
+h3{
+		color:6b6b6b;
+		text-align: center;
+		width:60%;
+		margin-left:20%;
+		font-size:1.5vw;
+}
+
+#table_t{
+	color:6b6b6b;
+	text-align: center;
+	height:0.8vw;
+	width: 20vw;
+	font-family:Segoe UI;
+	font-weight:Regular;
+	font-size:1.5vw;
+}
+#Full{
+	color:6b6b6b;
+		margin-top: 1.6vw;
+		text-align: center;
+		width: 20vw;
+		height:0.8vw;
+		font-family:Segoe UI;
+		font-weight:Regular;
+		font-size:1.5vw;
+}
+#tt{
+		margin-top:3vw;
+		line-height: 0;
+		margin-left: 8vw;
+		font-family: Regular;
+		font-size:2.5vw;
+		color:black;
+}
+#Im{
+	color:6b6b6b;
+	width: 10vw;
+	height:10vw;
+}
+#part_5 {
+	padding-top:0.01%;
+	margin-left:0vw; 
+		width: 100%;
+		height:50vw;
+		background:url(pictures_l2/part5.png)no-repeat ;
+		background-size: 100% 50vw;
+}
+#questions{
+	margin-top:10vw;
+	margin-left:3vw;
+	width:45vw;
+	height:5vw;
+	font-size:2vw;
+	color:black;
+}
+.Last{
+	font-family:Segoe UI;
+	font-weight:Regular;
+	font-size:0.9vw;
+	margin-left:3vw;
+}
+#inp2{
+		margin-left:3vw;
+		width:40vw;
+		height:1.7vw;
+		border-color:black;
+		border-width:0.05vw;
+}
+#inp3{
+		margin-left:3vw;
+		width:40vw;
+		height:15vw;
+		border-color:black;
+		border-width:0.05vw;
+}
+#Butt3{
+  border:none;
+  margin-top:0.2vw;
+  margin-left:3vw;
+  width: 8vw;
+  height: 2vw;
+  background-color: #f69321;
+  right:2vw;
+  color: white;
+  font-size: 0.7vw;
+  font-family:Segoe UI;
+  font-weight:Semibold;
+  font-size:0.9vw;
+}
+
+
